@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color :#807d7d70;  
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
@@ -24,6 +24,7 @@ article {
 .competition-titel {
   color: black;
   
+  
 }
 
 .competition-plaatje {
@@ -43,6 +44,7 @@ article {
 
 .after-competition {
   clear:both;
+  
   
   
 }
@@ -82,7 +84,9 @@ a:hover {
 }
 
 .c63 {
-  width:300px;
+  width:200px;
+  height: 150px;
+  border: 3px solid black;
 }
 
 
