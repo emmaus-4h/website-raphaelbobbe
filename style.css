@@ -21,6 +21,31 @@ article {
     text-align: justify;
 }
 
+.competition-titel {
+  color: black;
+  
+}
+
+.competition-plaatje {
+  border:3px solid black;
+  width: 300px;
+
+  float:left;
+}              
+.competition-tekst {
+  color: black;
+
+
+  
+ 
+
+}
+
+.after-competition {
+  clear:both;
+  
+  
+}
 
 header {
     color: skyblue;
@@ -39,7 +64,9 @@ footer {
 img.zweefLinks {
     float: left;
     margin-right: 15px;
+    
 }
+
 
 .smalltext {
     font-size: 0.7em;
@@ -52,6 +79,10 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+.c63 {
+  width:300px;
 }
 
 
