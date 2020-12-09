@@ -32,6 +32,8 @@ article {
   width: 300px;
 
   float:left;
+  margin-right: 30px;
+  margin-bottom: 20px;
 }              
 .competition-tekst {
   color: black;
@@ -44,11 +46,23 @@ article {
 
 .after-competition {
   clear:both;
+  color:black;
   
   
   
 }
+.r8{
+ 
+  width: 300px
+  
+  
+  
+  
 
+}
+.huracan{
+  width: 300px
+}
 header {
     color: skyblue;
     text-align: center;
@@ -84,8 +98,8 @@ a:hover {
 }
 
 .c63 {
-  width:200px;
-  height: 150px;
+  width:300px;
+  height: 180px;
   border: 3px solid black;
 }
 
@@ -120,5 +134,22 @@ nav li a.active {
 }
 
 
+/* index pagina */
+.plaatje {
+  
+  height: 180px;
+  width:300px;
+}
 
+.links {
+  float:left;
+  border: solid 5px black;
+}
 
+.rechts {
+  float:right;
+  border:solid 5px black;
+}
+.clearFloat {
+  clear:both;
+}
