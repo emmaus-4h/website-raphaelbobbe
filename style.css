@@ -48,12 +48,11 @@ article {
   clear:both;
   color:black;
   
-  
-  
 }
-.r8{
- 
-  width: 300px
+  
+  
+
+
   
   
   
@@ -97,13 +96,6 @@ a:hover {
     text-decoration: underline;
 }
 
-.c63 {
-  width:300px;
-  height: 180px;
-  border: 3px solid black;
-}
-
-
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
@@ -136,20 +128,24 @@ nav li a.active {
 
 /* index pagina */
 .plaatje {
-  
   height: 180px;
   width:300px;
+  border: solid 5px black;
+  margin-bottom: 20px;
 }
 
 .links {
   float:left;
-  border: solid 5px black;
 }
 
 .rechts {
   float:right;
-  border:solid 5px black;
 }
+
 .clearFloat {
   clear:both;
+}
+.naast-plaatje{
+  float:right;
+  color:black; 
 }
