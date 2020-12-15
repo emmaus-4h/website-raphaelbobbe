@@ -28,7 +28,7 @@ article {
 }
 
 .competition-plaatje {
-  border:3px solid black;
+  border:5px solid black;
   width: 300px;
 
   float:left;
@@ -148,4 +148,9 @@ nav li a.active {
 .naast-plaatje{
   float:right;
   color:black; 
+}
+
+.linkje{
+  color:black;
+ 
 }
