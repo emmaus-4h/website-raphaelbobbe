@@ -152,5 +152,8 @@ nav li a.active {
 
 .linkje{
   color:black;
- 
+ text-decoration-line:underline;
+}
+.filmpjes{
+  color: black
 }
